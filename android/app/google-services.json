@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141171766603",
+    "project_id": "belajarnavigationandroid-65842",
+    "storage_bucket": "belajarnavigationandroid-65842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141171766603:android:186f891f4ca6bc83aae4ce",
+        "android_client_info": {
+          "package_name": "com.belajarnavigationandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141171766603-0fgfj6ni195rt78078a0drps9hmh9i0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV80wN-hqp8-fYr0gPrsV3vA1INr48Mwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141171766603-0fgfj6ni195rt78078a0drps9hmh9i0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

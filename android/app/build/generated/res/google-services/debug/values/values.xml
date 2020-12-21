@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">141171766603-0fgfj6ni195rt78078a0drps9hmh9i0o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">141171766603</string>
+    <string name="google_api_key" translatable="false">AIzaSyAV80wN-hqp8-fYr0gPrsV3vA1INr48Mwc</string>
+    <string name="google_app_id" translatable="false">1:141171766603:android:186f891f4ca6bc83aae4ce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAV80wN-hqp8-fYr0gPrsV3vA1INr48Mwc</string>
+    <string name="google_storage_bucket" translatable="false">belajarnavigationandroid-65842.appspot.com</string>
+    <string name="project_id" translatable="false">belajarnavigationandroid-65842</string>
+</resources>
